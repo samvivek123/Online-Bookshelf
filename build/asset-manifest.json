@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//samvivek123.github.io/Online-Bookshel/static/css/main.7f8b40b9.css",
+    "main.js": "//samvivek123.github.io/Online-Bookshel/static/js/main.c443c8eb.js",
+    "static/media/img-1.jpg": "//samvivek123.github.io/Online-Bookshel/static/media/img-1.3b7fe5193b7868eb878e.jpg",
+    "static/media/img-5.jpg": "//samvivek123.github.io/Online-Bookshel/static/media/img-5.5727165587b973951ef1.jpg",
+    "static/media/img-2.jpg": "//samvivek123.github.io/Online-Bookshel/static/media/img-2.77036ef5dde8b5639cdc.jpg",
+    "index.html": "//samvivek123.github.io/Online-Bookshel/index.html",
+    "main.7f8b40b9.css.map": "//samvivek123.github.io/Online-Bookshel/static/css/main.7f8b40b9.css.map",
+    "main.c443c8eb.js.map": "//samvivek123.github.io/Online-Bookshel/static/js/main.c443c8eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f8b40b9.css",
+    "static/js/main.c443c8eb.js"
+  ]
+}
